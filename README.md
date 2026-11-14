@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Muthanna Tariq Almasani 👋</h1>
+<h1 align="center">Hi there, I'm Muthanna Tareq Almasani 👋</h1>
 <h3 align="center">Network Engineer 🌐 | Flutter Developer 📱</h3>
 
 <p align="center">
   <a href="https://github.com/M-almasani7744">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Network+Engineer;Routing+%26+Switching+Enthusiast;Network+Automation+with+Python;Flutter+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Network+Engineer;Routing+%26+Switching+Enthusiast;Network+Automation+with+Python+%26+Go;Flutter+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,20 +17,19 @@
 - 🌐 I'm a passionate **Network Engineer** specialized in designing, implementing, and troubleshooting robust network infrastructures.
 - 🛡️ Deeply interested in **Network Security, Routing & Switching, and Network Automation**.
 - 📱 I also build cross-platform mobile applications using **Flutter** to solve real-world problems.
-- 🌱 I’m currently enhancing my skills in **CCNP, MikroTik, and Python for Network Automation**.
-- 💬 Ask me about **Cisco, Routing Protocols, VLANs, Linux, Dart, and Flutter**.
+- 🌱 I’m currently enhancing my skills in **Network Automation using Python & Go, and Containerization with Docker**.
+- 💬 Ask me about **Cisco, Packet Tracer, Routing Protocols, VLANs, Linux, Dart, and Flutter**.
 - 📫 How to reach me: **Muthannaalmasani@gmail.com**
 
 ---
 
-### 🌐 Network Engineering Arsenal
+### 🌐 Network Engineering & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/GNS3-222222?style=for-the-badge&logoColor=white" alt="GNS3" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
 **Network Protocols & Concepts:**
@@ -45,6 +44,17 @@
 
 ---
 
+### 💻 Programming Languages & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+---
+
 ### 📱 Mobile Development (Flutter)
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -52,9 +62,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-**Other Tools:**
+**Tools:**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
@@ -94,7 +103,7 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/muthanna-almasani-a12779b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Muthannaalmasani@gmail.com">
