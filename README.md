@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="https://raw.githubusercontent.com/M-almasani7744/M-almasani7744/main/profile.png" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 3px solid #2F81F7;" alt="Muthanna Almasani" />
+       <img src="https://raw.githubusercontent.com/M-almasani7744/M-almasani7744/main/profile.png?v=2" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 3px solid #2F81F7;" alt="Muthanna Almasani" />
   
   <h1>Muthanna Tareq Almasani</h1>
   <h3>Network Engineer 🌐 | Flutter Developer 📱</h3>
@@ -73,12 +73,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-almasani7744&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-almasani7744&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-almasani7744&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-almasani7744&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-almasani7744&theme=tokyonight&hide_border=true" alt="Muthanna's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=M-almasani7744&theme=tokyonight&hide_border=true" alt="Muthanna's Streak" />
 </div>
 
 <div align="center">
@@ -88,6 +88,13 @@
 </div>
 
 ---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=M-almasani7744&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Muthanna's Trophies" />
+  </a>
+</div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
