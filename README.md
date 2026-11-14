@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="150" style="border-radius: 50%; border: 3px solid #2F81F7;" alt="Muthanna Tariq Almasani" />
+  <img src="YOUR_IMAGE_URL_HERE" width="150" style="border-radius: 50%; border: 3px solid #2F81F7;" alt="Muthanna Almasani" />
   
-  <h1>Muthanna Tariq Almasani</h1>
+  <h1>Muthanna Tareq Almasani</h1>
   <h3>Network Engineer 🌐 | Flutter Developer 📱</h3>
   
   <p>
