@@ -1,116 +1,102 @@
-<h1 align="center">Hi there, I'm Muthanna Tareq Almasani 👋</h1>
-<h3 align="center">Network Engineer 🌐 | Flutter Developer 📱</h3>
+<div align="center">
+  <img src="YOUR_IMAGE_URL_HERE" width="150" style="border-radius: 50%; border: 3px solid #2F81F7;" alt="Muthanna Tariq Almasani" />
+  
+  <h1>Muthanna Tariq Almasani</h1>
+  <h3>Network Engineer 🌐 | Flutter Developer 📱</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/muthanna-almasani-a12779b8" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:Muthannaalmasani@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
 
-<p align="center">
   <a href="https://github.com/M-almasani7744">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Network+Engineer;Routing+%26+Switching+Enthusiast;Network+Automation+with+Python+%26+Go;Flutter+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Routing+%26+Switching+Expert;Network+Automation+(Python+%26+Go);Flutter+Cross-Platform+Developer;Always+Building+%26+Securing+Networks" alt="Typing SVG" />
   </a>
+</div>
+
+---
+
+### 🧑‍💻 About Me
+> *"I don't just connect devices; I build secure and automated digital highways."*
+
+- 🌐 Passionate **Network Engineer** focused on Routing, Switching, Security, and Infrastructure.
+- 🚀 Deeply involved in **Network Automation** using Python & Go.
+- 📱 Crafting high-performance mobile apps using **Flutter**.
+- 🛠️ Experienced with **Windows Server**, Linux, and Cisco ecosystems.
+- 🌱 Currently diving deeper into **Cloud Networking & Cybersecurity**.
+- 📫 Reach me: **Muthannaalmasani@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Networking & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNS3-222222?style=for-the-badge&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-almasani7744&label=Profile%20views&color=0e75b6&style=flat" alt="M-almasani7744" />
+**Programming & Automation**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+**Web & Mobile Development**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Systems & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🌐 I'm a passionate **Network Engineer** specialized in designing, implementing, and troubleshooting robust network infrastructures.
-- 🛡️ Deeply interested in **Network Security, Routing & Switching, and Network Automation**.
-- 📱 I also build cross-platform mobile applications using **Flutter** to solve real-world problems.
-- 🌱 I’m currently enhancing my skills in **Network Automation using Python & Go, and Containerization with Docker**.
-- 💬 Ask me about **Cisco, Packet Tracer, Routing Protocols, VLANs, Linux, Dart, and Flutter**.
-- 📫 How to reach me: **Muthannaalmasani@gmail.com**
+### 📊 GitHub Analytics
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-almasani7744&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-almasani7744&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-### 🌐 Network Engineering & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/GNS3-222222?style=for-the-badge&logoColor=white" alt="GNS3" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-almasani7744&theme=tokyonight&hide_border=true" alt="Muthanna's Streak" />
+</div>
 
-**Network Protocols & Concepts:**
-<p align="center">
-  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square" alt="TCP/IP" />
-  <img src="https://img.shields.io/badge/OSPF-FF6C37?style=flat-square" alt="OSPF" />
-  <img src="https://img.shields.io/badge/BGP-4B0082?style=flat-square" alt="BGP" />
-  <img src="https://img.shields.io/badge/VLANs-008080?style=flat-square" alt="VLANs" />
-  <img src="https://img.shields.io/badge/VPN-800000?style=flat-square" alt="VPN" />
-  <img src="https://img.shields.io/badge/Firewalls-DC143C?style=flat-square" alt="Firewalls" />
-</p>
-
----
-
-### 💻 Programming Languages & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
-
----
-
-### 📱 Mobile Development (Flutter)
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-**Tools:**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### 📊 My GitHub Stats
-<p align="center">
+<div align="center">
   <a href="https://github.com/M-almasani7744">
-    <img src="https://github-readme-stats.vercel.app/api?username=M-almasani7744&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Muthanna's GitHub Stats" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-almasani7744&bg_color=1a1b27&color=2f81f7&line=2f81f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/M-almasani7744">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-almasani7744&theme=tokyonight&hide_border=true" alt="Muthanna's Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/M-almasani7744">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-almasani7744&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=M-almasani7744&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Muthanna's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=M-almasani7744&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Muthanna's Trophies" />
   </a>
-</p>
+</div>
 
 ---
-
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/muthanna-almasani-a12779b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Muthannaalmasani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>"The network is the computer."</i> – John Gage
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=100&section=footer" />
+</div>
